@@ -1,0 +1,14 @@
+.series {
+	float:left;
+	width: 33.33%;
+   
+}
+.turno {
+	float:left;
+	width: 33.33%;
+}
+
+.atividade {
+	float:right;
+	width: 33.33%;
+}
